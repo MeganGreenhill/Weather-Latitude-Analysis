@@ -4,7 +4,8 @@ For Part I - WeatherPy, a series of scatter plots were created to showcase the f
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude \n
+* Wind Speed (mph) vs. Latitude
+
 After this, a linear regression was run on each relationship, separated into Northern Hemisphere and Southern Hemisphere, then this was plotted on top of the scatter plots.
 For each relationship, the observations identified by the linear regression modeling were explored.
 
