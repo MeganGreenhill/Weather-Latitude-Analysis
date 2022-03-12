@@ -1,4 +1,4 @@
-# python-api-challenge
+# Weather Latitude Analysis
 
 For Part I - WeatherPy, a series of scatter plots were created to showcase the following relationships:
 * Temperature (F) vs. Latitude
